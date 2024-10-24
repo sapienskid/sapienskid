@@ -23,122 +23,97 @@
 ## 🎭 About Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=false&width=450&height=100&lines=Computational+Mathematics+Student;AI+Researcher+%26+Mathematics+Enthusiast;Exploring+the+Intersection+of+Mind+and+Machine" alt="About Typing"/>
-      </td>
-      <td width="50%">
-        <h4>Quick Facts 🚀</h4>
-        <ul>
-          <li>🎓 Currently studying Computational Mathematics</li>
-          <li>🧠 Fascinated by neural networks and brain-computer interfaces</li>
-          <li>💻 Working on AI projects in Python and Julia</li>
-          <li>📊 Love mathematical modeling and data visualization</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&random=false&width=500&height=70&lines=Bridging+Mathematics+and+Machine+Intelligence" alt="Tagline"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sapienskid&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapienskid&theme=graywhite&hide_border=true" width="49%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapienskid&layout=compact&theme=graywhite&hide_border=true" width="49%" alt="Top Languages"/>
-</div>
-
-## 🛠️ Skills & Tools
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=mathworks&logoColor=white)
-![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-black?style=for-the-badge&logo=julia&logoColor=white)
-
-### AI/ML & Scientific Computing
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+<table align="center">
+  <tr>
+    <td width="60%">
+      <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&theme=minimal&area=true&hide_border=true&custom_title=Journey%20in%20Code&radius=6" width="100%" alt="Activity"/>
+      </p>
+      <p align="justify">
+        As a Computational Mathematics student, I stand at the intersection of pure mathematics and artificial intelligence. My journey involves translating complex mathematical concepts into practical AI solutions, with a particular focus on neural networks and brain-computer interfaces. I believe in the power of mathematical modeling to unlock the mysteries of both artificial and biological intelligence.
+      </p>
+    </td>
+    <td width="40%">
+      <h3 align="center">🎯 Current Focus</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapienskid&layout=compact&theme=graywhite&hide_border=true&custom_title=Code%20Portfolio" width="100%"/>
+      </div>
+      <br>
+      <ul>
+        <li>🧮 Advanced Mathematical Modeling</li>
+        <li>🤖 Deep Learning Architecture Design</li>
+        <li>🧬 Computational Neuroscience Research</li>
+        <li>📊 Scientific Computing & Visualization</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🔬 Research Interests
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🧠-Computational%20Neuroscience-black?style=for-the-badge"/>
-        <br>
-        • Neural Networks<br>
-        • Brain-Computer Interfaces<br>
-        • Cognitive Modeling
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🤖-Artificial%20Intelligence-black?style=for-the-badge"/>
-        <br>
-        • Deep Learning<br>
-        • Reinforcement Learning<br>
-        • Natural Language Processing
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⚡-High%20Performance%20Computing-black?style=for-the-badge"/>
-        <br>
-        • Parallel Computing<br>
-        • GPU Optimization<br>
-        • Distributed Systems
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📊-Data%20Science-black?style=for-the-badge"/>
-        <br>
-        • Scientific Visualization<br>
-        • Statistical Analysis<br>
-        • Machine Learning
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapienskid&theme=graywhite&hide_border=true" width="100%" alt="Contribution Streak"/>
 </div>
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&theme=github&hide_border=true" width="100%"/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sapienskid&theme=onestar&no-frame=true&row=1&column=6" width="100%" alt="Trophies"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" width="50" height="50"/>
+      <h3>Neural Computing</h3>
+      <p>• Deep Neural Networks<br>• Cognitive Architecture<br>• Neuromorphic Computing</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" width="50" height="50"/>
+      <h3>AI Systems</h3>
+      <p>• Reinforcement Learning<br>• Natural Language AI<br>• Computer Vision</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" width="50" height="50"/>
+      <h3>High Performance</h3>
+      <p>• CUDA Programming<br>• Distributed Systems<br>• Algorithm Optimization</p>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyternotebook.svg" width="50" height="50"/>
+      <h3>Data Science</h3>
+      <p>• Scientific Computing<br>• Statistical Analysis<br>• Data Visualization</p>
+    </td>
+  </tr>
+</table>
 
 ## 📚 Featured Projects
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
 
-[![Owl](https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=Owl&theme=graywhite&hide_border=true)](https://github.com/sapienskid/Owl)
-[![Mark](https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=mark&theme=graywhite&hide_border=true)](https://github.com/sapienskid/mark)
+<a href="https://github.com/sapienskid/Owl">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=Owl&theme=graywhite&hide_border=true" />
+</a>
+
+<a href="https://github.com/sapienskid/mark">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=mark&theme=graywhite&hide_border=true" />
+</a>
+
+<a href="https://github.com/sapienskid/NARAD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=NARAD&theme=graywhite&hide_border=true" />
+</a>
 
 </div>
 
 <br>
 
 <div align="center">
-  <h3>🤝 Let's Connect and Collaborate!</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=sapienskid&theme=onestar&no-frame=true&row=1&column=6" width="100%" alt="Trophies"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🤝 Let's Connect and Innovate!</h3>
   <p>
-    Passionate about pushing the boundaries of AI, Mathematics, and Neuroscience? Let's create something amazing together!
+    Interested in collaborating on projects at the intersection of Mathematics, AI, and Neuroscience?<br>
+    Let's work together to push the boundaries of computational intelligence!
   </p>
 </div>
 
