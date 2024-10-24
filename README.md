@@ -35,10 +35,6 @@ Currently working on a novel Fractal-Based Neural Network architecture for my se
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Fractal Patterns in Neural Networks](https://munwalker.com/posts/fractal-patterns)
-- [Optimizing Parallel Computation in Mathematical Models](https://munwalker.com/posts/parallel-computation)
-- [Bio-inspired Computing: Learning from Nature](https://munwalker.com/posts/bio-inspired)
-- [The Mathematics of Consciousness](https://munwalker.com/posts/math-consciousness)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
