@@ -1,25 +1,37 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:666666&height=250&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=I'm%20Sabin%20Pokharel&descSize=30&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=transparent&height=150&text=Sabin%20Pokharel&fontSize=80&fontColor=000000&animation=fadeIn&desc=Building%20the%20Future%20with%20Code&descSize=25&descAlignY=75&descColor=666666)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Computational+Mathematics+Student;AI+%26+HPC+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=Computational+Mathematics+Student;AI+%26+HPC+Enthusiast;Full+Stack+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
+<div style="border-bottom: 2px solid #eee; margin: 20px 0;"></div>
 </div>
 
-<div align="center">
+<kbd align="center">
   <a href="https://munwalker.com">
-    <img src="https://img.shields.io/badge/Blog-munwalker.com-000?style=flat-square&logo=ghost" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-munwalker.com-000?style=for-the-badge&logo=ghost" alt="Blog" />
   </a>
   <a href="https://newsletter.munwalker.com">
-    <img src="https://img.shields.io/badge/Newsletter-Athena's_Owl-000?style=flat-square&logo=substack" alt="Newsletter" />
+    <img src="https://img.shields.io/badge/Newsletter-Athena's_Owl-000?style=for-the-badge&logo=substack" alt="Newsletter" />
   </a>
+</kbd>
+
+<br>
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Focus-Mathematics-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Passion-AI%20%26%20ML-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Love-Open%20Source-000000?style=flat-square">
 </div>
 
 <br>
 
-<table align="center">
+<table align="center" border="0" style="border: none;">
 <tr>
 <td width="50%" valign="top">
+
+<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 10px;">
 
 ## 🧠 About Me
 
@@ -32,8 +44,12 @@
 
 I explore the intersections of Mathematics, AI, and Neuroscience, building tools that augment human intelligence and automate cognitive tasks.
 
+</div>
+
 </td>
 <td width="50%" valign="top">
+
+<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 10px;">
 
 ## 🎯 Current Focus
 
@@ -43,11 +59,15 @@ I explore the intersections of Mathematics, AI, and Neuroscience, building tools
 - Contributing to open source
 - Learning quantum computing
 
+</div>
+
 </td>
 </tr>
 </table>
 
 <br>
+
+<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 10px;">
 
 ## 💻 Tech Stack
 
@@ -67,11 +87,16 @@ I explore the intersections of Mathematics, AI, and Neuroscience, building tools
 ![GCP](https://img.shields.io/badge/-Google_Cloud-000?style=for-the-badge&logo=googlecloud)
 
 </div>
+</div>
+
+<br>
+
+<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 10px;">
 
 ## 🚀 Featured Projects
 
 <div align="center">
-<table>
+<table border="0" style="border: none;">
 <tr>
 <td width="50%">
 <h3 align="center">Owl</h3>
@@ -88,11 +113,16 @@ I explore the intersections of Mathematics, AI, and Neuroscience, building tools
 </tr>
 </table>
 </div>
+</div>
+
+<br>
+
+<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 10px;">
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-<table>
+<table border="0" style="border: none;">
 <tr>
 <td width="50%" align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sapienskid&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
@@ -105,6 +135,9 @@ I explore the intersections of Mathematics, AI, and Neuroscience, building tools
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=555555"/>
 </div>
+</div>
+
+<br>
 
 ## 🤝 Connect With Me
 
