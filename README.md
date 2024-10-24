@@ -79,8 +79,8 @@ const sabin = {
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinpokharel&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabinpokharel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=@sapienskid&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=@sapienskid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ## 🛠️ Technology Stack
