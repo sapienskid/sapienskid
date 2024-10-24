@@ -2,8 +2,8 @@ name: Update Blog Posts
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -28,11 +28,15 @@ jobs:
         env:
           BLOG_URL: ${{ secrets.BLOG_URL }}
           
+      - name: Check for changes
+        run: |
+          echo "Changes in README.md:"
+          git diff README.md
+          
       - name: Commit and push if changed
         run: |
-          git diff
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add -A
-          git commit -m "Updated README with latest blog posts" || exit 0
-          git push
+          git add README.md
+          git commit -m "Updated README with latest blog posts" || echo "No changes to commit"
+          git push || echo "No changes to push"
