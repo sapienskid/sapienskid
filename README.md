@@ -120,10 +120,10 @@ class SabinPokharel:
 ## 📚 Recent Projects
 
 <div align="center">
-  <a href="https://github.com/sapienskid/neural-signal-processing">
+  <a href="https://github.com/sapienskid/owl">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=neural-signal-processing&theme=graywhite&hide_border=true" width="49%"/>
   </a>
-  <a href="https://github.com/sapienskid/computational-neuroscience">
+  <a href="https://github.com/sapienskid/mark">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=computational-neuroscience&theme=graywhite&hide_border=true" width="49%"/>
   </a>
 </div>
