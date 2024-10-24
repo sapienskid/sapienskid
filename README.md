@@ -97,7 +97,7 @@
 ## 📚 Recent Projects
 
 <div align="center">
-  <a href="https://github.com/sapienskid/owl">
+  <a href="https://github.com/sapienskid/Owl">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=Owl&theme=graywhite&hide_border=true" width="49%"/>
   </a>
   <a href="https://github.com/sapienskid/mark">
