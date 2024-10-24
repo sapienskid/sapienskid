@@ -54,7 +54,7 @@ const sabin = {
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinpokharel&hide=html&layout=compact&theme=tokyonight" align="center" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapienskid&hide=html&layout=compact&theme=tokyonight" align="center" width="100%" />
 </td>
 <td align="center" width="50%">
 
