@@ -20,23 +20,27 @@
 
 <br>
 
+## 🎭 About Me
 
-## About Me 🎓
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=false&width=450&height=100&lines=Computational+Mathematics+Student;AI+Researcher+%26+Mathematics+Enthusiast;Exploring+the+Intersection+of+Mind+and+Machine" alt="About Typing"/>
+      </td>
+      <td width="50%">
+        <h4>Quick Facts 🚀</h4>
+        <ul>
+          <li>🎓 Currently studying Computational Mathematics</li>
+          <li>🧠 Fascinated by neural networks and brain-computer interfaces</li>
+          <li>💻 Working on AI projects in Python and Julia</li>
+          <li>📊 Love mathematical modeling and data visualization</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```
-🎯 Name: Sabin Pokharel
-📚 Role: Computational Mathematics Student
-📍 Location: Nepal
-
-🔍 Interests:
-  • Artificial Intelligence
-  • Neuroscience
-  • High Performance Computing
-  • Mathematical Modeling
-
-🎯 Current Focus: 
-  "Bridging mathematics and neuroscience through AI"
-```
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -74,14 +78,40 @@
 ## 🔬 Research Interests
 
 <div align="center">
-
-| Area | Topics |
-|------|---------|
-| 🧠 **Computational Neuroscience** | Neural Networks, Brain-Computer Interfaces |
-| 🤖 **Artificial Intelligence** | Deep Learning, Reinforcement Learning |
-| ⚡ **High Performance Computing** | Parallel Computing, GPU Optimization |
-| 📊 **Data Science** | Scientific Visualization, Statistical Analysis |
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🧠-Computational%20Neuroscience-black?style=for-the-badge"/>
+        <br>
+        • Neural Networks<br>
+        • Brain-Computer Interfaces<br>
+        • Cognitive Modeling
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🤖-Artificial%20Intelligence-black?style=for-the-badge"/>
+        <br>
+        • Deep Learning<br>
+        • Reinforcement Learning<br>
+        • Natural Language Processing
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⚡-High%20Performance%20Computing-black?style=for-the-badge"/>
+        <br>
+        • Parallel Computing<br>
+        • GPU Optimization<br>
+        • Distributed Systems
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📊-Data%20Science-black?style=for-the-badge"/>
+        <br>
+        • Scientific Visualization<br>
+        • Statistical Analysis<br>
+        • Machine Learning
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📈 Contribution Graph
@@ -94,15 +124,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sapienskid&theme=onestar&no-frame=true&row=1&column=6" width="100%" alt="Trophies"/>
 </div>
 
-## 📚 Recent Projects
+## 📚 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/sapienskid/Owl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=Owl&theme=graywhite&hide_border=true" width="49%"/>
-  </a>
-  <a href="https://github.com/sapienskid/mark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=mark&theme=graywhite&hide_border=true" width="49%"/>
-  </a>
+
+[![Owl](https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=Owl&theme=graywhite&hide_border=true)](https://github.com/sapienskid/Owl)
+[![Mark](https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=mark&theme=graywhite&hide_border=true)](https://github.com/sapienskid/mark)
+
 </div>
 
 <br>
@@ -110,7 +138,7 @@
 <div align="center">
   <h3>🤝 Let's Connect and Collaborate!</h3>
   <p>
-    Interested in AI, Mathematics, or Neuroscience? Let's work together!
+    Passionate about pushing the boundaries of AI, Mathematics, and Neuroscience? Let's create something amazing together!
   </p>
 </div>
 
