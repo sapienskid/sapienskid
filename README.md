@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=000000&height=200&section=header&text=Sabin%20Pokharel&fontSize=50&fontColor=ffffff&animation=fadeIn&rotate=10)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:666666&height=250&section=header&text=Hello%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=I'm%20Sabin%20Pokharel&descSize=30&descAlignY=65)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Computational+Mathematics+Student;AI+%26+HPC+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Computational+Mathematics+Student;AI+%26+HPC+Enthusiast;Full+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -106,7 +106,7 @@ I explore the intersections of Mathematics, AI, and Neuroscience, building tools
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=555555"/>
 </div>
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 <a href="https://munwalker.com">
@@ -115,6 +115,10 @@ I explore the intersections of Mathematics, AI, and Neuroscience, building tools
 <a href="https://newsletter.munwalker.com">
   <img src="https://img.shields.io/badge/Newsletter-Subscribe-000000?style=for-the-badge&logo=substack" alt="Newsletter"/>
 </a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-000000?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:666666&height=100&section=footer)
