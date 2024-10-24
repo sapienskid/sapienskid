@@ -18,14 +18,28 @@
   </a>
 </div>
 
-<br>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sapienskid&theme=github" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sapienskid&theme=github" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sapienskid&theme=github" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sapienskid&theme=github" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sapienskid&theme=github" width="45%"/>
+</div>
 
 ## 🎭 About Me
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      <td width="50%">
+      <td width="60%">
         <h3 align="center">Journey & Focus</h3>
         <p align="justify">
         As a Computational Mathematics student, I blend rigorous mathematical principles with cutting-edge AI technologies. My passion lies in developing innovative solutions that bridge the gap between theoretical mathematics and practical applications in artificial intelligence and neuroscience.
@@ -37,19 +51,17 @@
           <li>💻 Developing scientific computing tools</li>
         </ul>
       </td>
-      <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&theme=minimal&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="Activity Graph"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapienskid&layout=compact&theme=graywhite&hide_border=true" width="100%" alt="Top Languages"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sapienskid&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="100%" alt="GitHub Stats"/>
+      <td width="40%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapienskid&theme=graywhite&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%"/>
       </td>
     </tr>
   </table>
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&theme=minimal&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
 </div>
 
 ## 🛠️ Skills & Tools
@@ -75,50 +87,18 @@
 
 </div>
 
-## 🔬 Research Interests
+## 🔬 Research Focus
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapienskid&theme=graywhite&hide_border=true" width="100%" alt="GitHub Streak"/>
-  
-  <table border="0">
+  <table>
     <tr>
       <td align="center" width="50%">
         <h3>🧠 Computational Neuroscience</h3>
-        <p>
-          • Neural Network Architecture Design<br>
-          • Brain-Computer Interface Development<br>
-          • Cognitive System Modeling<br>
-          • Neural Data Analysis
-        </p>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sapienskid&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true&hide=stars,issues&hide_title=true" width="100%"/>
       </td>
       <td align="center" width="50%">
         <h3>🤖 Artificial Intelligence</h3>
-        <p>
-          • Deep Learning Systems<br>
-          • Reinforcement Learning<br>
-          • Natural Language Processing<br>
-          • Computer Vision
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h3>⚡ High Performance Computing</h3>
-        <p>
-          • Parallel Algorithm Design<br>
-          • GPU Optimization<br>
-          • Distributed Systems<br>
-          • Scientific Computing
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <h3>📊 Data Science</h3>
-        <p>
-          • Mathematical Modeling<br>
-          • Statistical Analysis<br>
-          • Data Visualization<br>
-          • Machine Learning Applications
-        </p>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sapienskid&layout=compact&langs_count=8&theme=graywhite&hide_border=true&hide_title=true" width="100%"/>
       </td>
     </tr>
   </table>
@@ -127,25 +107,30 @@
 ## 📚 Featured Projects
 
 <div align="center">
+  <!-- Add README.md files to these repositories to show repository cards -->
   <a href="https://github.com/sapienskid/Owl">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=Owl&theme=graywhite&hide_border=true" />
   </a>
   <a href="https://github.com/sapienskid/mark">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=mark&theme=graywhite&hide_border=true" />
   </a>
-  
   <a href="https://github.com/sapienskid/NARAD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=NARAD&theme=graywhite&hide_border=true" />
   </a>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sapienskid&theme=onestar&no-frame=true&row=1&column=6" width="100%" alt="Trophies"/>
+  <h3>⚡ Quick Tip</h3>
+  <p>
+    To make repository cards visible, add a README.md file to each featured project repository.
+    This will allow GitHub to properly display the repository information cards.
+  </p>
 </div>
 
-<br>
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=sapienskid&theme=onestar&no-frame=true&row=1&column=6" width="100%"/>
+</div>
 
 <div align="center">
   <h3>🤝 Let's Connect and Innovate!</h3>
