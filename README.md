@@ -33,9 +33,6 @@ I'm a Computational Mathematics student fascinated by the intersection of mathem
 ### Current Focus
 Currently working on a novel Fractal-Based Neural Network architecture for my semester project, exploring how fractal geometry can enhance neural network topology and information processing capabilities.
 
-## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
 <div align="center">
