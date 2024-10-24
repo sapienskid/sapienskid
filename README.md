@@ -1,9 +1,9 @@
 <div align="center">
 
 # SABIN POKHAREL
-*Where Mathematics Meets Innovation*
+*Exploring the Convergence of Mathematics, Computation, and Cognition*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=800&lines=Computational+Mathematics+Student;AI+Research+%26+Development+Enthusiast;Full+Stack+Developer;High+Performance+Computing+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=800&lines=Computational+Mathematics+Student;Neural+Computing+Researcher;Creative+Coder;High+Performance+Computing+Engineer)](https://git.io/typing-svg)
 
 [![Mathematics](https://img.shields.io/badge/Mathematics-000000?style=flat-square&logo=wolfram&logoColor=white)](https://munwalker.com)
 [![AI](https://img.shields.io/badge/AI-000000?style=flat-square&logo=tensorflow&logoColor=white)](https://munwalker.com)
@@ -21,14 +21,25 @@
 
 ## About Me
 
-I'm a Computational Mathematics student passionate about bridging the gap between theoretical mathematics and practical applications in AI. My research focuses on:
+I'm a Computational Mathematics student fascinated by the intersection of mathematical theory and practical computing. My work spans across multiple domains:
 
-- 🧮 **Mathematical Foundations**: Advanced algorithms, optimization theory, and numerical computing
-- 🤖 **AI Development**: Deep learning architectures, reinforcement learning, and neural networks
-- 🔬 **Research Interests**: Cognitive computing, neural information processing, and automated reasoning
-- 💻 **Technical Excellence**: High-performance computing, distributed systems, and scalable architectures
+- 🧮 **Mathematical Computing**: Exploring fractal geometry, chaos theory, and their applications in neural networks
+- 🧠 **Neuroscience & AI**: Developing bio-inspired computing models and investigating neural information processing
+- 💻 **High Performance Computing**: Optimizing computational workflows and parallel processing systems
+- 🎨 **Creative Coding**: Building generative art and interactive mathematical visualizations
+- 🤖 **AI Agents**: Researching autonomous agents and multi-agent systems
+- 📱 **Mobile Development**: Creating cross-platform applications with Flutter and native frameworks
 
-Currently working on projects that leverage mathematical principles to enhance AI capabilities and develop next-generation computational tools.
+### Current Focus
+Currently working on a novel Fractal-Based Neural Network architecture for my semester project, exploring how fractal geometry can enhance neural network topology and information processing capabilities.
+
+## Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Fractal Patterns in Neural Networks](https://munwalker.com/posts/fractal-patterns)
+- [Optimizing Parallel Computation in Mathematical Models](https://munwalker.com/posts/parallel-computation)
+- [Bio-inspired Computing: Learning from Nature](https://munwalker.com/posts/bio-inspired)
+- [The Mathematics of Consciousness](https://munwalker.com/posts/math-consciousness)
+<!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
 <div align="center">
@@ -47,17 +58,33 @@ Currently working on projects that leverage mathematical principles to enhance A
 <tr>
 <td width="50%">
 
-### 🦉 Owl
-AI-powered research assistant that augments human intelligence through natural language processing and automated knowledge management.
+### 🌀 Fractal Neural Networks
+Research project exploring the application of fractal geometry in neural network architectures for enhanced learning capabilities and computational efficiency.
 
-[View Project →](https://github.com/sapienskid/owl)
+[View Project →](https://github.com/sapienskid/fractal-nn)
 </td>
 <td width="50%">
 
-### ✏️ Mark
-High-performance markdown parser and renderer with extended syntax for academic and technical writing.
+### 🎨 Creative Computing Lab
+A collection of generative art projects and mathematical visualizations using various creative coding frameworks.
 
-[View Project →](https://github.com/sapienskid/mark)
+[View Project →](https://github.com/sapienskid/creative-lab)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Autonomous Agents Framework
+A framework for developing and testing AI agents with emphasis on multi-agent systems and emergent behavior.
+
+[View Project →](https://github.com/sapienskid/agents)
+</td>
+<td width="50%">
+
+### 📱 Cross-Platform Portfolio
+A Flutter-based portfolio application showcasing interactive mathematical visualizations and project documentation.
+
+[View Project →](https://github.com/sapienskid/portfolio)
 </td>
 </tr>
 </table>
@@ -100,6 +127,6 @@ High-performance markdown parser and renderer with extended syntax for academic 
 
 <div align="center">
 
-*"Mathematics is the art of giving the same name to different things."* - Henri Poincaré
+*"The beauty of mathematics only shows itself to more patient followers."* - Maryam Mirzakhani
 
 </div>
