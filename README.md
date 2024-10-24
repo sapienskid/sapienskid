@@ -23,24 +23,29 @@
 ## 🎭 About Me
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td width="60%">
-        <h3>🚀 Background</h3>
+      <td width="50%">
+        <h3 align="center">Journey & Focus</h3>
         <p align="justify">
         As a Computational Mathematics student, I blend rigorous mathematical principles with cutting-edge AI technologies. My passion lies in developing innovative solutions that bridge the gap between theoretical mathematics and practical applications in artificial intelligence and neuroscience.
         </p>
-        <h3>🎯 Current Focus</h3>
         <ul>
-          <li>Exploring advanced neural network architectures</li>
-          <li>Developing brain-computer interface algorithms</li>
-          <li>Implementing mathematical models for AI systems</li>
-          <li>Creating scientific visualization tools</li>
+          <li>🧬 Exploring advanced neural architectures</li>
+          <li>🧠 Building brain-computer interfaces</li>
+          <li>📊 Creating mathematical models for AI</li>
+          <li>💻 Developing scientific computing tools</li>
         </ul>
       </td>
-      <td width="40%">
+      <td width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&theme=minimal&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="Activity Graph"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapienskid&layout=compact&theme=graywhite&hide_border=true" width="100%" alt="Top Languages"/>
-        <br><br>
+      </td>
+      <td width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=sapienskid&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="100%" alt="GitHub Stats"/>
       </td>
     </tr>
@@ -73,7 +78,9 @@
 ## 🔬 Research Interests
 
 <div align="center">
-  <table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapienskid&theme=graywhite&hide_border=true" width="100%" alt="GitHub Streak"/>
+  
+  <table border="0">
     <tr>
       <td align="center" width="50%">
         <h3>🧠 Computational Neuroscience</h3>
@@ -117,34 +124,19 @@
   </table>
 </div>
 
-<br>
+## 📚 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapienskid&theme=graywhite&hide_border=true" width="100%" alt="GitHub Streak"/>
-</div>
-
-## 📚 Projects & Contributions
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🦉 Owl</h3>
-        <p>Advanced neural network architecture for cognitive computing applications.</p>
-        <a href="https://github.com/sapienskid/Owl">View Project →</a>
-      </td>
-      <td align="center" width="33%">
-        <h3>📝 Mark</h3>
-        <p>Mathematical modeling toolkit for complex system analysis.</p>
-        <a href="https://github.com/sapienskid/mark">View Project →</a>
-      </td>
-      <td align="center" width="33%">
-        <h3>🔮 NARAD</h3>
-        <p>AI-powered data analysis and visualization platform.</p>
-        <a href="https://github.com/sapienskid/NARAD">View Project →</a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/sapienskid/Owl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=Owl&theme=graywhite&hide_border=true" />
+  </a>
+  <a href="https://github.com/sapienskid/mark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=mark&theme=graywhite&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/sapienskid/NARAD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sapienskid&repo=NARAD&theme=graywhite&hide_border=true" />
+  </a>
 </div>
 
 <br>
@@ -158,8 +150,8 @@
 <div align="center">
   <h3>🤝 Let's Connect and Innovate!</h3>
   <p>
-    Interested in collaborating on projects at the intersection of Mathematics, AI, and Neuroscience?<br>
-    Let's work together to push the boundaries of computational intelligence!
+    Passionate about pushing the boundaries of AI, Mathematics, and Neuroscience?<br>
+    Let's create something amazing together!
   </p>
 </div>
 
