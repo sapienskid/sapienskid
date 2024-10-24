@@ -68,8 +68,6 @@
 
 <div align="center">
   
-<img src="https://github.com/sapienskid/sapienskid/blob/output/github-contribution-grid-snake-dark.svg" />
-
 [![Blog](https://img.shields.io/badge/Blog-munwalker.com-000?style=for-the-badge&logo=ghost)](https://munwalker.com)
 [![Newsletter](https://img.shields.io/badge/Newsletter-Athena's_Owl-000?style=for-the-badge&logo=substack)](https://newsletter.munwalker.com)
   
