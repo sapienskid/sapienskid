@@ -21,23 +21,44 @@
 <br>
 
 <div align="center">
-  
-### 🎓 About Me
 
-```yaml
-name: Sabin Pokharel
-role: Computational Mathematics Student
-location: Nepal
-interests: [
-  "Artificial Intelligence",
-  "Neuroscience",
-  "High Performance Computing",
-  "Mathematical Modeling"
-]
-current_focus: "Bridging mathematics and neuroscience through AI"
-```
+## 👨‍💻 About Me
 
 </div>
+
+```python
+class SabinPokharel:
+    def __init__(self):
+        self.name = "Sabin Pokharel"
+        self.role = "Computational Mathematics Student"
+        self.location = "Nepal"
+        self.interests = [
+            "Artificial Intelligence",
+            "Neuroscience",
+            "High Performance Computing",
+            "Mathematical Modeling"
+        ]
+        self.current_focus = "Bridging mathematics and neuroscience through AI"
+        
+    def get_skills(self):
+        return {
+            'languages': ['Python', 'MATLAB', 'R', 'Julia'],
+            'ai_ml': ['TensorFlow', 'PyTorch', 'Scikit-learn'],
+            'scientific': ['NumPy', 'SciPy', 'Pandas'],
+            'tools': ['Git', 'LaTeX', 'Docker']
+        }
+    
+    def get_research_interests(self):
+        return [
+            "Neural Network Architecture",
+            "Brain-Computer Interfaces",
+            "High Performance Computing",
+            "Mathematical Modeling"
+        ]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's collaborate on something exciting!")
+```
 
 ## 📊 GitHub Stats
 
