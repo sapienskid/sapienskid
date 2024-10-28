@@ -67,17 +67,17 @@ A collection of generative art projects and mathematical visualizations using va
 <tr>
 <td width="50%">
 
-### 🤖 Autonomous Agents Framework
-A framework for developing and testing AI agents with emphasis on multi-agent systems and emergent behavior.
+### 🤖 Autonomous Agenic Content Creation tool
+A agentic without any frameworks like langchain, langgraph or crewai that uses Geminig API for content creation and Tavily Search for research to create highly optimized and researched content. 
 
-[View Project →](https://github.com/sapienskid/agents)
+[View Project →](https://github.com/sapienskid/scribe-ai)
 </td>
 <td width="50%">
 
-### 📱 Cross-Platform Portfolio
-A Flutter-based portfolio application showcasing interactive mathematical visualizations and project documentation.
+### 📱 News Reader Application
+A Flutter-based news reader application.
 
-[View Project →](https://github.com/sapienskid/portfolio)
+[View Project →](https://github.com/sapienskid/NARAD)
 </td>
 </tr>
 </table>
