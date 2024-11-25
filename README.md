@@ -5,9 +5,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=800&lines=Computational+Mathematics+Student;Neural+Computing+Researcher;Creative+Coder;High+Performance+Computing+Engineer)](https://git.io/typing-svg)
 
-[![Mathematics](https://img.shields.io/badge/Mathematics-1E90FF?style=flat-square&logo=wolfram&logoColor=white)](https://munwalker.com)
-[![AI](https://img.shields.io/badge/AI-1E90FF?style=flat-square&logo=tensorflow&logoColor=white)](https://munwalker.com)
-[![Open Source](https://img.shields.io/badge/Open_Source-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/sapienskid)
+[![Mathematics](https://img.shields.io/badge/Mathematics-000000?style=flat-square&logo=wolfram&logoColor=white)](https://munwalker.com)
+[![AI](https://img.shields.io/badge/AI-000000?style=flat-square&logo=tensorflow&logoColor=white)](https://munwalker.com)
+[![Open Source](https://img.shields.io/badge/Open_Source-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/sapienskid)
 
 </div>
 
@@ -21,11 +21,7 @@
 
 ## About Me
 
-<div align="center">
-
 I'm a Computational Mathematics student fascinated by the intersection of mathematical theory and practical computing. My work spans across multiple domains:
-
-</div>
 
 - 🧮 **Mathematical Computing**: Exploring fractal geometry, chaos theory, and their applications in neural networks
 - 🧠 **Neuroscience & AI**: Developing bio-inspired computing models and investigating neural information processing
@@ -51,32 +47,46 @@ Currently working on a novel Fractal-Based Neural Network architecture for my se
 </div>
 
 ## Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
-
-### 🌀 [Fractal Neural Networks](https://github.com/sapienskid/fractal-nn)
-
+### 🌀 Fractal Neural Networks
 Research project exploring the application of fractal geometry in neural network architectures for enhanced learning capabilities and computational efficiency.
 
-### 🎨 [Creative Computing Lab](https://github.com/sapienskid/creative-lab)
+[View Project →](https://github.com/sapienskid/fractal-nn)
+</td>
+<td width="50%">
 
+### 🎨 Creative Computing Lab
 A collection of generative art projects and mathematical visualizations using various creative coding frameworks.
 
-### 🤖 [Autonomous Agenic Content Creation Tool](https://github.com/sapienskid/scribe-ai)
+[View Project →](https://github.com/sapienskid/creative-lab)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-An agentic tool without frameworks that uses Geminig API for content creation and Tavily Search for research.
+### 🤖 Autonomous Agenic Content Creation tool
+A agentic without any frameworks like langchain, langgraph or crewai that uses Geminig API for content creation and Tavily Search for research to create highly optimized and researched content. 
 
-### 📱 [News Reader Application](https://github.com/sapienskid/NARAD)
+[View Project →](https://github.com/sapienskid/scribe-ai)
+</td>
+<td width="50%">
 
+### 📱 News Reader Application
 A Flutter-based news reader application.
 
-</div>
+[View Project →](https://github.com/sapienskid/NARAD)
+</td>
+</tr>
+</table>
 
 ## GitHub Statistics
-
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&bg_color=FFFFFF&color=1E90FF&line=1E90FF&point=1E90FF&area=true&hide_border=true)
+<!-- Activity Graph -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)
 
 <!-- Stats Cards in Two Columns -->
 <table>
