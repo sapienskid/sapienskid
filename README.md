@@ -34,13 +34,14 @@ I'm a Computational Mathematics student fascinated by the intersection of mathem
 Currently working on a novel Fractal-Based Neural Network architecture for my semester project, exploring how fractal geometry can enhance neural network topology and information processing capabilities.
 
 ## Tech Stack
+## Tech Stack
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-4184F3?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![C++](https://img.shields.io/badge/C++-4184F3?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-4184F3?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
 [![Docker](https://img.shields.io/badge/Docker-4184F3?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Flutter](https://img.shields.io/badge/Flutter-4184F3?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![CUDA](https://img.shields.io/badge/CUDA-4184F3?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![Linux](https://img.shields.io/badge/Linux-4184F3?style=for-the-badge&logo=linux&logoColor=white)](https://linux.org)
 
 </div>
