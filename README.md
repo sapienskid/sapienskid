@@ -34,7 +34,6 @@ I'm a Computational Mathematics student fascinated by the intersection of mathem
 Currently working on a novel Fractal-Based Neural Network architecture for my semester project, exploring how fractal geometry can enhance neural network topology and information processing capabilities.
 
 ## Tech Stack
-## Tech Stack
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-4184F3?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
