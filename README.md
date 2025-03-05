@@ -62,15 +62,10 @@ Created an integration tool to convert Obsidian notes to Anki flashcards, enhanc
 ### 📰 News Reader Application
 Engineered a news aggregation application implementing efficient data structures and algorithms, with a database schema optimized for content retrieval.
 
-[View Project →](https://github.com/sapienskid/news-reader)
+[View Project →](https://github.com/sapienskid/narad)
 </td>
 <td width="50%">
 
-### 📊 Data Visualization Portfolio
-Collection of data visualization projects using Matplotlib, Seaborn, and other libraries to explore and present insights from various datasets.
-
-[View Project →](https://github.com/sapienskid/data-viz-portfolio)
-</td>
 </tr>
 </table>
 
