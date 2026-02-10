@@ -80,9 +80,9 @@ Hybrid TypeScript-Python Obsidian plugin for Anki flashcard generation. Supports
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sapienskid&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&custom_title=Contribution%20Graph&theme=minimal&hide_border=true)
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/api/?username=sapienskid&theme=flat&no-frame=true&no-bg=true&row=1&column=7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sapienskid&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
