@@ -5,10 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=4184F3&center=true&vCenter=true&random=false&width=800&lines=Computational+Mathematics+%40+KU;Systems+Programming+in+Rust+%26+C;Building+Developer+Tools;Sub-50ms+Latency+Enthusiast)](https://git.io/typing-svg)
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://github.com/sapienskid)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/sapienskid)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://github.com/sapienskid)
-
 </div>
 
 ---
@@ -26,21 +22,6 @@ Third-year **Computational Mathematics** student at Kathmandu University buildin
 Building an **Input Method Engine** for Devanagari script with sub-50ms keystroke latency using Pruning Radix Tries and Syllable-Aware FSTs. Also maintaining a suite of Obsidian plugins for publishing and note synchronization.
 
 **Treasurer @ KU Math Club** — Secured partnerships with Perplexity AI (100 Pro accounts) and DataCamp (250 licenses).
-
----
-
-## Tech Stack
-
-<div align="center">
-
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com)
-
-</div>
 
 ---
 
@@ -95,26 +76,13 @@ Hybrid TypeScript-Python Obsidian plugin for Anki flashcard generation. Supports
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&custom_title=Contribution%20Graph&theme=minimal&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sapienskid&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<table>
-<tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sapienskid&show_icons=true&hide_border=true&theme=default&hide_title=true&include_all_commits=true)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sapienskid&layout=compact&hide_border=true&theme=default&langs_count=6)
-
-</td>
-</tr>
-</table>
+![Profile Trophy](https://github-profile-trophy.vercel.app/api/?username=sapienskid&theme=flat&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
