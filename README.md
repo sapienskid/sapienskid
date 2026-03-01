@@ -1,107 +1,33 @@
-<div align="center">
+### sabin pokharel
 
-# SABIN POKHAREL
-*Systems Programming · High-Performance Computing · Developer Tools*
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=4184F3&center=true&vCenter=true&random=false&width=800&lines=Computational+Mathematics+%40+KU;Systems+Programming+in+Rust+%26+C;Building+Developer+Tools;Sub-50ms+Latency+Enthusiast)](https://git.io/typing-svg)
-
-</div>
+computational mathematics @ kathmandu university  
+i build systems software, developer tools, and things that are fast
 
 ---
 
-## About Me
+**projects**
 
-Third-year **Computational Mathematics** student at Kathmandu University building high-performance systems and developer tools. I care about latency, memory efficiency, and clean abstractions.
-
-- ⚡ **Systems Programming**: Rust, C, FFI design, IBus input framework
-- 🏗️ **Infrastructure**: Cloudflare Workers, IndexedDB, S3-compatible APIs
-- 🔧 **Developer Tools**: Obsidian plugins, CLI tools, automation pipelines
-- 📐 **Applied Mathematics**: Finite State Transducers, Trie data structures, numerical methods
-
-### Current Work
-Building an **Input Method Engine** for Devanagari script with sub-50ms keystroke latency using Pruning Radix Tries and Syllable-Aware FSTs. Also maintaining a suite of Obsidian plugins for publishing and note synchronization.
-
-**Treasurer @ KU Math Club** — Secured partnerships with Perplexity AI (100 Pro accounts) and DataCamp (250 licenses).
+| name | description |
+|---|---|
+| [akshar-ime](https://github.com/sapienskid/akshar-ime) | devanagari input method engine · sub-50ms keystroke latency · syllable-aware FST · pruning radix trie · ibus integration |
+| [pebble](https://github.com/sapienskid/pebble) | offline-first PWA for atomic note capture · cloudflare workers backend · obsidian sync plugin with deduplication |
+| [witch](https://github.com/sapienskid/witch) | obsidian → ghost CMS publisher · wikilink conversion · image uploads to cloudflare R2 |
+| [theorem](https://github.com/sapienskid/theorem) | offline-first PDF & EPUB reader · sync highlights and notes across devices |
+| [lemma](https://github.com/sapienskid/lemma) | obsidian plugin for anki flashcard generation · 6 card types · LaTeX & code highlight support |
+| [bookwyrm](https://github.com/sapienskid/bookwyrm) | obsidian plugin to search books and create notes with structured frontmatter |
+| [mew](https://github.com/sapienskid/mew) | reproduction of the dunmore matrix encryption walk paper |
 
 ---
 
-## Featured Projects
+**stats**
 
-<table>
-<tr>
-<td width="50%">
+![Streak](https://streak-stats.demolab.com/?user=sapienskid&hide_border=true&theme=default)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sapienskid&theme=default)
 
-### ⌨️ Akshar Devanagari IME
-High-performance Input Method Engine in **Rust/C** with sub-50ms latency. Features Syllable-Aware FST for O(n) transliteration, Pruning Radix Trie with fuzzy search, and IBus integration via FFI.
-
-**Stack:** `Rust` `C` `FFI` `IBus`
-
-[View Project →](https://github.com/sapienskid/akshar-ime)
-
-</td>
-<td width="50%">
-
-### 🪨 Pebble & Pebble-Sync
-Offline-first PWA for atomic note capture with **Cloudflare Workers** backend. Companion Obsidian plugin syncs notes via REST API with 5,000-item deduplication cache.
-
-**Stack:** `SvelteKit` `TypeScript` `Cloudflare Workers` `IndexedDB`
-
-[View Project →](https://github.com/sapienskid/pebble)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧙 Witch — Ghost Publisher
-Obsidian plugin for direct publishing to Ghost CMS via Admin API. Handles YAML frontmatter, wikilink conversion, and binary image uploads to **Cloudflare R2** using S3-compatible API.
-
-**Stack:** `TypeScript` `Ghost Admin API` `Cloudflare R2`
-
-[View Project →](https://github.com/sapienskid/witch)
-
-</td>
-<td width="50%">
-
-### 🧠 NeuralCard
-Hybrid TypeScript-Python Obsidian plugin for Anki flashcard generation. Supports 6 card types with LaTeX math rendering and code syntax highlighting.
-
-**Stack:** `TypeScript` `Python` `genanki`
-
-[View Project →](https://github.com/sapienskid/neuralcard)
-
-</td>
-</tr>
-</table>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&theme=minimal&hide_border=true&area=true)
 
 ---
 
-## GitHub Activity
+**contact**
 
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sapienskid&custom_title=Contribution%20Graph&theme=minimal&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sapienskid&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:savinpokharel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sapienskid)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=ghost&logoColor=white)](https://savinpokharel.com.np)
-
-</div>
-
----
-
-<div align="center">
-
-*"Premature optimization is the root of all evil — but so is premature abstraction."*
-
-</div>
+[savinpokharel@gmail.com](mailto:savinpokharel@gmail.com) · [linkedin](https://linkedin.com/in/sapienskid) · [blog](https://pokharelsabin.com.np)
