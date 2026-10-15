@@ -28,4 +28,4 @@ i build systems software, developer tools, and things that are fast
 
 **contact**
 
-[savinpokharel@gmail.com](mailto:savinpokharel@gmail.com) · [linkedin](https://linkedin.com/in/sapienskid) · [blog](https://pokharelsabin.com.np)
+[linkedin](https://linkedin.com/in/sapienskid) · [blog](https://pokharelsabin.com.np)
