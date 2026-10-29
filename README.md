@@ -4,17 +4,16 @@ computational mathematics @ kathmandu university
 i build systems software, developer tools, and things that are fast
 
 ---
-
 **projects**
 
 | name | description |
 |---|---|
+| [tasbir](https://github.com/sapienskid/tasbir) | self-hosted multi-agent content pipeline · turns blog posts into social media assets · fastapi + celery job queue · langgraph agent state · gemini api · deployed on oracle cloud |
 | [akshar-ime](https://github.com/sapienskid/akshar-ime) | devanagari input method engine · sub-50ms keystroke latency · syllable-aware FST · pruning radix trie · ibus integration |
 | [pebble](https://github.com/sapienskid/pebble) | offline-first PWA for atomic note capture · cloudflare workers backend · obsidian sync plugin with deduplication |
 | [theorem](https://github.com/sapienskid/theorem) | offline-first PDF & EPUB reader · sync highlights and notes across devices |
 | [lemma](https://github.com/sapienskid/lemma) | obsidian plugin for anki flashcard generation · 6 card types · LaTeX & code highlight support |
 | [bookwyrm](https://github.com/sapienskid/bookwyrm) | obsidian plugin to search books and create notes with structured frontmatter |
-
 ---
 
 **stats**
